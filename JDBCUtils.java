@@ -122,5 +122,9 @@ public class JDBCUtils {
 			}
 		}
 	}
+	
+	public void test (){
+		System.out.print("新的改变");
+	}
 
 }
